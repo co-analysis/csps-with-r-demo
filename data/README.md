@@ -1,0 +1,1 @@
+**Important note on the data**: the data in this folder **is not real data**. Instead, it's a 'synthetic' version created using [the {synthpop} package](https://cran.r-project.org/web/packages/synthpop/vignettes/synthpop.pdf). This preserves data distributions without any response being that sampled from a real individual.

@@ -40,7 +40,6 @@ rsconnect/
 .DS_Store
 
 # Data
-*.dta
 *.RDS
 *.rds
 *.csv

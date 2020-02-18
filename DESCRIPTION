@@ -1,0 +1,13 @@
+Type: Compendium
+Package: csps-with-r-demo
+Title: The CSPS with R and RStudio
+Version: 0.0.1
+Authors@R: 
+    person(given = "Matt",
+           family = "Dray",
+           role = c("aut", "cre"),
+           email = "mwdray@gmail.com")
+Description: A minimal repo for learning about the CSPS with R and RStudio.
+Depends: tidyverse
+Encoding: UTF-8
+LazyData: true

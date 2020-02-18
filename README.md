@@ -8,9 +8,11 @@ In the session we'll be following along with this document: https://co-analysis.
 
 ## RStudio in the cloud
 
-If you don't have R and RStudio installed, you can click the 'Binder' button below to open RStudio in the cloud, which you will access from your browser.
+If you don't have R and RStudio installed, you can click the 'Launch RStudio Binder' button below to open RStudio in the cloud, which you will access from your browser.
 
-<insert button>
+<!-- badges: start -->
+[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-dray/csps-with-r-demo/master?urlpath=rstudio)
+<!-- badges: end -->
 
 This is not how you would normally access RStudio; this has been set up so you are able to follow along with the demonstrations in the session.
 
